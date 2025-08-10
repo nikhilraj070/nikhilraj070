@@ -35,12 +35,12 @@
 </p>
 
 ---
-
+<!--
 ## 🥇 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/?username=nikhilraj070" />
-</p>
-
+##<p align="center">
+ ## <img src="https://github-profile-achievements.vercel.app/api/?username=nikhilraj070" />
+##</p>
+-->
 ---
 
 ## 📈 Contribution Graph
@@ -112,11 +112,11 @@
 
 ## 🚀 Featured Projects
 <p>
-  <a href="https://github.com/nikhilraj070/Algorithm-Converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilraj070&repo=Algorithm-Converter&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/nikhilraj070/100-days-of-javascript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilraj070&repo=100-days-of-javascript&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/nikhilraj070/Portfolio-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilraj070&repo=Portfolio-Website&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/nikhilraj070/nikhilraj070">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilraj070&repo=nikhilraj070&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
