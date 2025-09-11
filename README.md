@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Raj</h1>
 <h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
 
-<!-- VISITOR COUNT -->
+<!-- VISITOR COUNT --> 
 <p align="center" class="gap">
   <img src="https://komarev.com/ghpvc/?username=nikhilraj070&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter" />
 </p>
