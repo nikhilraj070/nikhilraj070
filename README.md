@@ -5,7 +5,7 @@
 
 <!-- INTRO -->
 <h1 align="center">Hi 👋, I'm Nikhil Raj</h1>
-<h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3> 
 
 <!-- VISITOR COUNT --> 
 <p align="center" class="gap">
