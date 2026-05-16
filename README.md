@@ -1,9 +1,7 @@
-<!-- BANNER --> 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikhilraj070/nikhilraj070/main/assets/banner.gif" alt="Banner" />
 </p>
-
-<!-- INTRO -->
 <h1 align="center">Hi 👋, I'm Nikhil Raj</h1>
 <h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3> 
 
